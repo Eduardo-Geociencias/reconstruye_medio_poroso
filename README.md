@@ -12,3 +12,4 @@ Temas explicados:
 ## Curso de IA
 Nuevo repositorio para un [curso escrito de IA con python](https://github.com/danielTeniente/curso-IA).
 
+Hola
